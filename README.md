@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently preparing for a coding bootcamp with NorthCoders in Manchester, UK. Making the change from teaching music after 15 years. 
+- 🌱 I’m currently preparing for a coding bootcamp with NorthCoders in Manchester, UK. Making the change after teaching music for 16 years. 
 
 - Wish me luck!!
 
