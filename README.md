@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently preparing for a coding bootcamp with NorthCoders in Manchester, UK. Making the change from teaching music after 15 years. 
+
+- Wish me luck!!
+
 <!--
 **CoupDeWhoop/CoupDeWhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
