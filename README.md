@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently preparing for a coding bootcamp with NorthCoders in Manchester, UK. Making the change after teaching music for 16 years. 
+- 🌱 Career switcher from musician and teacher to software developer. Since completing the Northcoders bootcamp I have continued to build skills in front and back end development and am ready to lay my focus on a career in either direction. 
 
-- Wish me luck!!
+- I'm currently working on devekoping a music journal and practice log app utilising the cross platform capabilities of React Native. The front and back end repos are available on my profile.
+
+- Take a look!
 
 <!--
 **CoupDeWhoop/CoupDeWhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
