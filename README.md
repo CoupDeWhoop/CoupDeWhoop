@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Career switcher from musician and teacher to software developer. Since completing the Northcoders bootcamp I have continued to build skills in front and back end development and am ready to lay my focus on a career in either direction. 
+- 🌱 Career switcher from musician and teacher to software developer. Since completing the Northcoders bootcamp I have continued to build skills in front and back end development and am ready to give my focus to a career in either direction. 
 
 - I'm currently working on devekoping a music journal and practice log app utilising the cross platform capabilities of React Native. The front and back end repos are available on my profile.
 
