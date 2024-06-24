@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-- 🌱 Career switcher from musician and teacher to software developer. Since completing the Northcoders bootcamp I have continued to build skills in front and back end development and am ready to give my focus to a career in either direction. 
+- 🌱 Career switcher from musician and teacher to software developer. I have completed the Northcoders bootcamp and continue to build skills in front and back end development. I have been working on data structures and algorithms using Typescript, with a focus on Object Orientated Programming. 
 
-- I'm currently working on developing a music journal and practice-log application utilising the cross platform capabilities of React Native. The front and back end repos are available on my profile.
+- 🔨 Recent projects include a Exhibition Curator website built using NextJS, Typsecript and Tailwind. The website brings together the content of several museum APIs to allow the user to curate their own digital exhibition. Implementing testing using React Testing Library and mocking APIs using Mock Service Worker. [Curator](https://github.com/CoupDeWhoop/exhibition-curator)
+  
+- 🎻 I also have an ongoing project developing a music journal and practice-log application utilising the cross platform capabilities of React Native.     [Front-end](https://github.com/CoupDeWhoop/sonata-fe) | [Back-end](https://github.com/CoupDeWhoop/sonata)
 
-- Take a look!
+- 📖 I have been reading "Clean Code" by Robert C. Martin and "Computer Systems - a Programmers Perspective" by Randal E. Bryant and David Richard O'Hallaron.
+
 
 <!--
 **CoupDeWhoop/CoupDeWhoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
