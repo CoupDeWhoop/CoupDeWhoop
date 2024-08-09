@@ -6,7 +6,7 @@
   
 - 🎻 I also have an ongoing project developing a music journal and practice-log application utilising the cross platform capabilities of React Native.     [Front-end](https://github.com/CoupDeWhoop/sonata-fe) | [Back-end](https://github.com/CoupDeWhoop/sonata)
 
-- 📖 I have been reading "Clean Code" by Robert C. Martin and "Computer Systems - a Programmers Perspective" by Randal E. Bryant and David Richard O'Hallaron.
+- 📖 I have been reading "Clean Code" by Robert C. Martin.
 
 
 <!--
